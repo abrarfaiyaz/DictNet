@@ -1,1 +1,5 @@
-./run_DictNet.sh P1 47
+
+
+### Running for Protocol P1
+seed=47
+./run_DictNet.sh Pall $seed
