@@ -10,4 +10,7 @@ Corresponding NODDI fISO output is provided in DictNet-main/input/<Protocol>/NOD
 Figure-5 can be regenerated using <i>Figure_5_NDIwisefISO_both.m</i> (Plots for both NODDI and DictNet)
 
 
+For any questions or troubleshooting, please contact- abrarfaiyaz.iutcse@gmail.com
+
+
 
