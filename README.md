@@ -1,5 +1,5 @@
 # DictNet
-Stochastic Sparse Dictionary based Learner.
+Stochastic Sparse Dictionary based Learner for DLpN.
 
 
 
