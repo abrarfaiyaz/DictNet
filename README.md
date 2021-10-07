@@ -1,4 +1,4 @@
-# ***DLpN: Single-Shell NODDI Using Deep Learner Estimated Isotropic Volume Fraction***
+# ***DLpN: Single-Shell NODDI Using Dictionary Learner Estimated Isotropic Volume Fraction***
 Stochastic Sparse Dictionary based Learner for DLpN.
 
 
