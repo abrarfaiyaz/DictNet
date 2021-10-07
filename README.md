@@ -40,7 +40,7 @@ Coronal slices from a test subject with CSVD (characterized by high Fazekas scor
 
 ### **Citation**
 
-If you find our work useful in your research, please consider citing the pre-print (The peer reviwed article will be soon available online (Publisher: NMR in Biomedicine, Wiley)):
+If you find our work useful in your research, please consider citing the pre-print (The peer reviwed article will be soon available online (Publisher: ***NMR in Biomedicine*** , Wiley)):
 
 ``` {.w3-panel .w3-leftbar .w3-light-grey}
 @misc{faiyaz2021singleshell,
