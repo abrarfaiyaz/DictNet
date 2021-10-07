@@ -37,7 +37,6 @@ Coronal slices from a test subject with CSVD (characterized by high Fazekas scor
 
 ![Graphical Abstract](https://github.com/abrarfaiyaz/DictNet/blob/main/Data_SNR_Comparison.png)
 
-For additional queries or troubleshoot, please contact- afaiyaz@ur.rochester.edu
 
 ### **Citation**
 
@@ -53,6 +52,7 @@ If you find our work useful in your research, please consider citing:
       primaryClass={physics.med-ph}
 }
 ```
+For additional queries or troubleshoot, please contact- afaiyaz@ur.rochester.edu
 
 ## References
 <a id="1">[1]</a> 
