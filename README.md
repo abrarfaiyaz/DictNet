@@ -19,7 +19,7 @@ https://rochester.box.com/s/lm30dl28tu60mok6dykr5khxefb3han2
   - ANTs (v2.1.0). 
 ## Method
 ![Graphical Abstract](https://github.com/abrarfaiyaz/DictNet/blob/main/Method.tiff)
-  (A) DictNet Training with at least two subjects with multishell data required. Training protoccol must be multi-shelled, complementary to single shell test data.
+  (A) DictNet Training with at least two subjects with multishell data required. Training protocol must be multi-shelled, complementary to single shell test data.
   (B) NODDI (NDI and ODI) Estiamtion with f<sub>ISO</sub> derived from DictNet.
 
 ## Simulation (f<sub>ISO</sub> Estimation)
