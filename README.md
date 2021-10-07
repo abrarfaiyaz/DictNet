@@ -24,7 +24,7 @@ Coronal slices from a test subject with CSVD (characterized by high Fazekas scor
 ![Graphical Abstract](https://github.com/abrarfaiyaz/DictNet/blob/main/Application_on_CSVD.tiff)
 ## Data Quality Comparison (HCP vs CSVD)
 
-![Graphical Abstract](https://github.com/abrarfaiyaz/DictNet/blob/main/Data_SNR_Comaparison.png)
+![Graphical Abstract](https://github.com/abrarfaiyaz/DictNet/blob/main/Data_SNR_Comparison.png)
 
 For additional queries or troubleshoot, please contact- afaiyaz@ur.rochester.edu
 
