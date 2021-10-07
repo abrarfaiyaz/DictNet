@@ -17,7 +17,7 @@ https://rochester.box.com/s/lm30dl28tu60mok6dykr5khxefb3han2
   - MATLAB 2019a (MathWorks Inc., Natick, MA, USA)
   - FSL (v6.0.0) and 
   - ANTs (v2.1.0). 
-# METHOD
+# Method
 ![Graphical Abstract](https://github.com/abrarfaiyaz/DictNet/blob/main/Method.tiff)
 # Application on (low SNR) clinical CSVD dataset
 ## Comparison of DLpN derived NDI and f<sub>ISO</sub> maps with NODDI<sub>Pall</sub> in CSVD 
