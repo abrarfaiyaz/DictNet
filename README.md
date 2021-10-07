@@ -1,4 +1,4 @@
-# ***DLpN: Single-Shell NODDI using dictionary learner estimated isotropic volume fraction***
+# DLpN: Single-Shell NODDI using dictionary learner estimated isotropic volume fraction
 
 This is the code repository for the study <b>"DLpN: Single-Shell NODDI Using Dictionary Learner Estimated Isotropic Volume Fraction"
 </b>
