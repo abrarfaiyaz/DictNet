@@ -1,9 +1,7 @@
 # ***DLpN: Single-Shell NODDI using dictionary learner estimated isotropic volume fraction***
-Stochastic Sparse Dictionary based Learner for DLpN.
 
-
-
-This is the code repository for the study <b>"DLpN: Single-Shell NODDI Using Deep Learner Estimated Isotropic Volume Fraction"</b>
+This is the code repository for the study <b>"DLpN: Single-Shell NODDI Using Dictionary Learner Estimated Isotropic Volume Fraction"
+</b>
 
 ![Graphical Abstract](https://github.com/abrarfaiyaz/DictNet/blob/main/Graphical_Abstract.tiff)
 
