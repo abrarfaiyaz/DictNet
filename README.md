@@ -34,19 +34,25 @@ Coronal slices from a test subject with CSVD (characterized by high Fazekas scor
 ![Graphical Abstract](https://github.com/abrarfaiyaz/DictNet/blob/main/Data_SNR_Comparison.png)
 
 
-### **Citation**
+### **Citation (Preprint)**
 
-If you find our work useful in your research, please consider citing the pre-print (The peer reviwed article will be soon available online (Publisher: ***NMR in Biomedicine*** , Wiley)):
+If you find our work useful in your research, please consider citing-
 
 ``` {.w3-panel .w3-leftbar .w3-light-grey}
 @misc{faiyaz2021singleshell,
-      title={Single-Shell NODDI Using Dictionary Learner Estimated Isotropic Volume Fraction}, 
+      title={Single-shell NODDI using dictionary-learner-estimated isotropic volume fraction}, 
       author={Abrar Faiyaz and Marvin Doyley and Giovanni Schifitto and Jianhui Zhong and Md Nasir Uddin},
       year={2021},
       eprint={2102.02772},
       archivePrefix={arXiv},
       primaryClass={physics.med-ph}
-}
+}```
+
+```
+### **Citation (Final Version)**
+Faiyaz, A., Doyley, M., Schifitto, G., Zhong, J., & Uddin, M. N. (2021). Single-shell NODDI using dictionary-learner-estimated isotropic volume fraction. NMR in biomedicine, e4628. Advance online publication. https://doi.org/10.1002/nbm.4628
+```
+
 ```
 For additional queries or troubleshoot, please contact- afaiyaz@ur.rochester.edu
 
